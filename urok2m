@@ -1,0 +1,2 @@
+str = milk
+print(str[2])
