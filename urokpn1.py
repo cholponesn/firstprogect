@@ -23,14 +23,4 @@
 #     #всегда
 #     print('finally')
 
-names = ['vladimir', 'aliya', 'begimai', 'erbol']
-salaries = [0.10000.20000.30000]
 
-i = 0
-while i < len(names):
-    try:
-        salaries[i] *= 2
-    except IndexError:
-        salaries.append(0)
-        i *= 1
-        print(salaries)
