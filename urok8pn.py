@@ -59,7 +59,7 @@
 #     i+= 1
 #     print(i)
 
-list1 = ["vova",2004,"m","18",["harry","das"]]
+#list1 = ["vova",2004,"m","18",["harry","das"]]
 
 # i=0
 # while i < len(list1):
